@@ -1,0 +1,18 @@
+#database:
+#  host: 127.0.0.1
+#  port: 3306
+#  username: root
+#  password: root
+#  database: wechat
+
+port:
+  8088
+
+# 正式地址
+database:
+  host: 124.222.122.222
+  port: 13307
+  username: root
+  password: Fanyaoyao
+  database: wechat
+
